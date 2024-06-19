@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.eb586716.css",
-    "main.js": "/My-Portfolio/static/js/main.464aa6c3.js",
-    "static/js/453.f2c9a895.chunk.js": "/My-Portfolio/static/js/453.f2c9a895.chunk.js",
-    "static/media/Home.png": "/My-Portfolio/static/media/Home.5b1e46a4f1a7f107c3e6.png",
-    "index.html": "/My-Portfolio/index.html",
-    "main.eb586716.css.map": "/My-Portfolio/static/css/main.eb586716.css.map",
-    "main.464aa6c3.js.map": "/My-Portfolio/static/js/main.464aa6c3.js.map",
-    "453.f2c9a895.chunk.js.map": "/My-Portfolio/static/js/453.f2c9a895.chunk.js.map"
+    "main.css": "/bir-website/static/css/main.eb586716.css",
+    "main.js": "/bir-website/static/js/main.2a17db7f.js",
+    "static/js/453.f2c9a895.chunk.js": "/bir-website/static/js/453.f2c9a895.chunk.js",
+    "static/media/Home.png": "/bir-website/static/media/Home.5b1e46a4f1a7f107c3e6.png",
+    "index.html": "/bir-website/index.html",
+    "main.eb586716.css.map": "/bir-website/static/css/main.eb586716.css.map",
+    "main.2a17db7f.js.map": "/bir-website/static/js/main.2a17db7f.js.map",
+    "453.f2c9a895.chunk.js.map": "/bir-website/static/js/453.f2c9a895.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb586716.css",
-    "static/js/main.464aa6c3.js"
+    "static/js/main.2a17db7f.js"
   ]
 }
