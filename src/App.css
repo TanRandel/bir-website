@@ -58,14 +58,15 @@
   padding: 10px 20px;
   width: 100%;
   font-size: 1.rem; /* Use rem units for scalability */
-  color: rgb(208, 230, 12);
+  color: black;
   position: fixed;
   top: 0;
   box-sizing: border-box;
 }
 
 .App-header > div a {
-  color: #FFF67E;
+  color:black;
+  font-weight:200;
   margin-inline: 15px;
   text-decoration: none;
 }
@@ -83,11 +84,10 @@
   width: 80%;
   max-width: 50em;
   height: 2.5em;
-  border: 1px solid green;
   border-radius: 15px;
-  color: rgb(16, 207, 16);
+  color: black;
   padding: 10px;
-  font-weight: bold;
+  font-weight: 200;
   font-size: 1rem; /* Use rem units for scalability */
   box-shadow: 13px 10px 27px 0px rgba(212,140,9,0.75);
   -webkit-box-shadow: 13px 10px 27px 0px rgba(212,140,9,0.75);

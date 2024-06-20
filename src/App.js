@@ -20,6 +20,8 @@ function App() {
   >
     <header className="App-header">
     <div>
+    <a href='https://acpc.gov.ph/'>ACPC Philippines</a> 
+    <a href='https://helpdesk.acpc.gov.ph/hc/en-us/requests/new'>Submit a Request</a>
     <a href='https://www.gov.ph/'>Gov</a>
     <a href='https://www.gov.ph/'>Home</a>
     </div>
